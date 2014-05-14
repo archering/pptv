@@ -1,2 +1,3 @@
 hello for master branch
 nithing hello
+nadd new line for master brnch
